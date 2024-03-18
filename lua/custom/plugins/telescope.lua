@@ -36,7 +36,7 @@ return { -- Fuzzy Finder (files, lsp, etc)
     --
     -- Two important keymaps to use while in telescope are:
     --  - Insert mode: <c-/>
-    --  - Normal mode:?
+    --  - Normal mode: ?
     --
     -- This opens a window that shows you all of the keymaps for the current
     -- telescope picker. This is really useful to discover what Telescope can
