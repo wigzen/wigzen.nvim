@@ -1,0 +1,1 @@
+vim.opts.splitright = true
