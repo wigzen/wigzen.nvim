@@ -1,2 +1,1 @@
-# wigzen.nvim
-# kickstart.nvim
+# wigzen.nvim (do not use this)
